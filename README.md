@@ -12,3 +12,10 @@ Created on: May 25, 2026
 
 ## Author
 Ojaswini Kar
+
+## Testing Bidirectional Sync
+
+This line was added locally to test the Git push workflow via SSH.
+- Local changes can be committed
+- Changes can be pushed to GitHub using SSH
+- Everything is working perfectly! ✅
